@@ -1,0 +1,23 @@
+{
+  "name": "nodewebserver",
+  "version": "1.0.0",
+  "description": "A Web server based on node.js",
+  "main": "printMessages.js",
+  "dependencies": {
+    "cities": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitNavV/OdinFCC.git"
+  },
+  "author": "Navneet Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitNavV/OdinFCC/issues"
+  },
+  "homepage": "https://github.com/gitNavV/OdinFCC#readme"
+}

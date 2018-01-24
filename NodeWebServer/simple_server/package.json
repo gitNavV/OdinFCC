@@ -1,0 +1,14 @@
+{
+  "name": "nws",
+  "version": "1.0.0",
+  "description": "A Web server based on node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navneet Das",
+  "license": "ISC",
+  "dependencies": {
+    "unescape": "^1.0.1"
+  }
+}
