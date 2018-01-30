@@ -9,6 +9,7 @@
   "author": "Navneet Das",
   "license": "ISC",
   "dependencies": {
+    "cities": "^1.1.2",
     "unescape": "^1.0.1"
   }
 }
